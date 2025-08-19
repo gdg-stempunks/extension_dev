@@ -5,7 +5,7 @@
  * generated for an **exported** function.
  */
 
-//% color="#AA278D" weight=100
+//% color="#27AA90" weight=100
 
 namespace emoji {
     //% block
